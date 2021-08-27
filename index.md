@@ -1,12 +1,33 @@
 
-## tim bangma `//Infra Dev @ Arctic Wolf`
+## Tim Bangma
 > Connect with me via email: [git.bangma@pm.me](mailto:git.bangma@pm.me) or [LinkedIn](https://linkedin.com/in/bangma)
 
-**Arctic Wolf** | Software Developer - Infrastructure (Member of Technical Staff) | **Current** `Started: Nov 02 2020`
-> `Golang`, `Python`, `Java`, `CloudFormation`, `AWS`
-- *upcoming details*
+Hello! I am a backend web application developer, proficient in several languages: (`Java & Springboot` (`Kotlin` / `Scala` too), `Python`, `Golang`). 
+My most recent positions have been focused on DevOps and SRE, to increase and solidify my knowledge around deployment, Kubernetes, CI & CD systems, and automation tooling.
+
+In my free time I am a bit of a programming language enthusiast, and enjoy learning new concepts, paradigms and tools. 
+Some of the things I've been playing around with:
+ - Efficient compiled programming, with `Rust`, `Golang` and `Zig`
+ - Functional, and Type Oriented programming, with `Haskell`, `Rust`, `Scala`
+
+----
+
 
 ### Work Experience
+
+----
+
+**Arctic Wolf** | Software Developer - Infrastructure (Member of Technical Staff) | **Current** `Started: Nov 02 2020`
+> `Golang`, `Python`, `CloudFormation`, `Troposphere`, `AWS`, `Kubernetes`
+- Develop and maintain automation tools, including deployment automation.
+- Design and implement new service in golang to handle and enrich Prometheus webhooks.
+- Create and maintain python scripting to automate verification tasks across multiple AWS accounts.
+- Troubleshoot and assist in solving developer issues related to tooling and infrastructure.
+- Develop and update services built on Kubernetes and CloudFormation python libraries (Troposphere).
+- Integrate new applications into existing large, high-performance production ecosystems.
+
+----
+
 **HP Inc** | Lead DevOps Engineer `Mar 02 2020 - Oct 30 2020`
 > `AWS`, `Kubernetes`, `Jenkins`, `Groovy`, `Powershell`, `terraform`, `apigee`, `Python 2/3`, `Helm`
 - **Build Pipeline Technical Lead**
