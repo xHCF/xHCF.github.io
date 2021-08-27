@@ -4,7 +4,7 @@
 
 Hello! 
 
-I am a backend web application developer, and have been working as a software developer for almost 5 years. 
+I am a backend web application developer, and have been working professionally as a software developer for almost 5 years. 
 I'm proficient in several languages: (`Java & Springboot` (`Kotlin` / `Scala` too), `Python`, `Golang`).
 
 My most recent positions have been delving into DevOps and SRE, to improve my knowledge around deployment, Kubernetes, CI & CD systems, and automation tooling.
