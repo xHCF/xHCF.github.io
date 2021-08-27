@@ -86,6 +86,8 @@ Some of the things I've been playing around with:
  - Co-Lead Modernization initiative to bring legacy projects into common code base.
  - Modernize and optimize Multi-Million dollar steel sales/auction platform.
 
+----
+
 **Westmount Secondary Music Department** | Student: _Website Developer_ | Jan 2011 - Jan 2015
 > `HTML`, `CSS`, `Javascript`, `PHP`, `Wordpress`, `cPanel`
 
