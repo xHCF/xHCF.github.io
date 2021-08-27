@@ -1,6 +1,6 @@
 
 ## Tim Bangma
-> Connect with me via email: [git.bangma@pm.me](mailto:git.bangma@pm.me) or [LinkedIn](https://linkedin.com/in/bangma)
+> Connect with me via email: [bangma@pm.me](mailto:bangma@pm.me) or [LinkedIn](https://linkedin.com/in/bangma)
 
 Hello! 
 
