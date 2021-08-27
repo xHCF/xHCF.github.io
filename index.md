@@ -15,12 +15,7 @@ Some of the things I've been playing around with:
  - Efficient compiled programming, with `Rust`, `Golang` and `Zig`
  - Functional, and Type Oriented programming, with `Haskell`, `Rust`, `Scala`
 
-----
-
-
 ### Work Experience
-
-----
 
 **Arctic Wolf** | Software Developer - Infrastructure (Member of Technical Staff) | **Current** `Started: Nov 02 2020`
 > `Golang`, `Python`, `CloudFormation`, `Troposphere`, `AWS`, `Kubernetes`
