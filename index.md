@@ -2,10 +2,15 @@
 ## Tim Bangma
 > Connect with me via email: [git.bangma@pm.me](mailto:git.bangma@pm.me) or [LinkedIn](https://linkedin.com/in/bangma)
 
-Hello! I am a backend web application developer, proficient in several languages: (`Java & Springboot` (`Kotlin` / `Scala` too), `Python`, `Golang`). 
-My most recent positions have been focused on DevOps and SRE, to increase and solidify my knowledge around deployment, Kubernetes, CI & CD systems, and automation tooling.
+Hello! 
+
+I am a backend web application developer, and have been working as a software developer for almost 5 years. 
+I'm proficient in several languages: (`Java & Springboot` (`Kotlin` / `Scala` too), `Python`, `Golang`).
+
+My most recent positions have been delving into DevOps and SRE, to improve my knowledge around deployment, Kubernetes, CI & CD systems, and automation tooling.
 
 In my free time I am a bit of a programming language enthusiast, and enjoy learning new concepts, paradigms, and tools. 
+
 Some of the things I've been playing around with:
  - Efficient compiled programming, with `Rust`, `Golang` and `Zig`
  - Functional, and Type Oriented programming, with `Haskell`, `Rust`, `Scala`
