@@ -1,5 +1,5 @@
 
-## Tim Bangma
+## Tim Bangma // Server Engineer @ EA Maxis
 > Connect with me via email: [bangma@pm.me](mailto:bangma@pm.me) or [LinkedIn](https://linkedin.com/in/bangma)
 
 Hello! 
@@ -16,8 +16,13 @@ Some of the things I've been playing around with:
  - Functional, and Type Oriented programming, with `Haskell`, `Rust`, `Scala`
 
 ### Work Experience
+**EA Maxis** | Server Engineer | `Nov 01 2021` ***Current***
+> `Kotlin`
+ - Develop Backend web services for Maxis games
 
-**Arctic Wolf** | Software Developer - Infrastructure (Member of Technical Staff) | **Current** `Started: Nov 02 2020`
+----
+
+**Arctic Wolf** | Software Developer - Infrastructure (Member of Technical Staff) | `Nov 02 2020 - Oct 29 2021`
 > `Golang`, `Python`, `CloudFormation`, `Troposphere`, `AWS`, `Kubernetes`
 - Develop and maintain automation tools, including deployment automation.
 - Design and implement new service in golang to handle and enrich Prometheus webhooks.
